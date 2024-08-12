@@ -2,8 +2,7 @@ YMS
 <body>
   <head>
 <h1>O que os alunos mais gosta no colegio?</h1>
-<li>
-  principal motivação para
+<li>A principal motivação para
 estudar está em obter uma formação profissional. Em segundo lugar está o motivo de
 prestar vestibular. Além de concluir os estudos, a principal razão para não desistir da
 escola é a convivência com os colegas. A convivência com amigos foi apontada também
